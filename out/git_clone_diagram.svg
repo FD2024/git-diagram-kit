@@ -1,17 +1,105 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
-
 <defs>
   <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
     <path d="M2,1 L10,6 L2,11 Z" fill="#111"/>
   </marker>
-  <style> text{font-family: Inter, Segoe UI, Arial, sans-serif} </style>
+  <style> text{font-family: Segoe UI, Arial, sans-serif} </style>
 </defs>
-
 <text x="24" y="32" font-size="20" font-weight="bold" fill="#111" text-anchor="start">git clone &lt;URL&gt; [dir]</text>
 <text x="24" y="60" font-size="14" font-weight="normal" fill="#333" text-anchor="start">c:\a\git\libs&gt;git clone git@github.com:FD2024/datarecorder-lib.git</text>
 <text x="24" y="82" font-size="14" font-weight="normal" fill="#333" text-anchor="start">Erstellt lokales Repo unter c:\a\git\libs\datarecorder-lib, richtet origin ein, holt Objekte/Refs, checkt Default-Branch main aus.</text>
-<rect x="24" y="120" width="564" height="576" rx="16" ry="16" fill="#fff" stroke="#5B4B8A" stroke-width="2"/><text x="40" y="148" font-size="16" font-weight="bold" fill="#111" text-anchor="start">Remote Repository github.com</text><rect x="38" y="160" width="203" height="520" rx="10" ry="10" fill="#fff" stroke="#111" stroke-width="2"/><text x="48" y="182" font-size="13" font-weight="bold" fill="#111" text-anchor="start">datarecorder-lib Working Tree</text><text x="50" y="206" font-size="12" font-weight="normal" fill="#111" text-anchor="start">datarecorder-lib/</text><text x="64" y="226" font-size="12" font-weight="normal" fill="#111" text-anchor="start">src/</text><text x="78" y="246" font-size="12" font-weight="normal" fill="#111" text-anchor="start">main.c</text><rect x="200" y="238" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="202" y="240" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="204" y="242" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><text x="64" y="266" font-size="12" font-weight="normal" fill="#111" text-anchor="start">README.md</text><rect x="200" y="258" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="202" y="260" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="204" y="262" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="255" y="160" width="157" height="520" rx="10" ry="10" fill="#fff" stroke="#111" stroke-width="2"/><text x="265" y="182" font-size="13" font-weight="bold" fill="#111" text-anchor="start">.git (Index &amp; Staging Area)</text><text x="267" y="206" font-size="12" font-weight="normal" fill="#111" text-anchor="start">datarecorder-lib/</text><text x="281" y="226" font-size="12" font-weight="normal" fill="#111" text-anchor="start">src/</text><text x="295" y="246" font-size="12" font-weight="normal" fill="#111" text-anchor="start">main.c</text><rect x="384" y="238" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="386" y="240" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="388" y="242" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><text x="281" y="266" font-size="12" font-weight="normal" fill="#111" text-anchor="start">README.md</text><rect x="384" y="258" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="386" y="260" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="388" y="262" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/><rect x="426" y="160" width="148" height="520" rx="10" ry="10" fill="#fff" stroke="#111" stroke-width="2"/><rect x="426" y="160" width="148" height="22" fill="#F0F0FF" opacity="0.7"/><rect x="426" y="182" width="148" height="22" fill="#F0F0FF" opacity="0.5"/><text x="436" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Branch</text><text x="524" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Refs</text><text x="524" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Hash</text><text x="567" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Type</text><rect x="436" y="186" width="58" height="14" rx="6" ry="6" fill="#E3F2FD" stroke="none"/><text x="465.0" y="195.8" font-size="13" font-weight="bold" fill="#111" text-anchor="middle">main</text><circle cx="470.0" cy="528.0" r="8" fill="#fff" stroke="#111" stroke-width="3"/><text x="524" y="532.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">3087743</text><text x="567" y="532.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">commit</text><line x1="470.0" y="528.0" x2="470.0" y="376.0" stroke="#111" stroke-width="3"/><circle cx="470.0" cy="376.0" r="8" fill="#fff" stroke="#111" stroke-width="3"/><text x="524" y="380.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">2d10267</text><text x="567" y="380.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">commit</text><line x1="470.0" y="376.0" x2="470.0" y="224.0" stroke="#111" stroke-width="3"/><circle cx="470.0" cy="224.0" r="8" fill="#fff" stroke="#111" stroke-width="3"/><text x="524" y="228.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">06d7e80</text><text x="567" y="228.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">commit</text>
-<rect x="612" y="120" width="564" height="576" rx="16" ry="16" fill="#fff" stroke="#5B4B8A" stroke-width="2"/><text x="628" y="148" font-size="16" font-weight="bold" fill="#111" text-anchor="start">Lokal: c:\a\git\libs\datarecorder-lib</text><rect x="626" y="160" width="203" height="520" rx="10" ry="10" fill="#F8FFFB" stroke="#1B9E77" stroke-width="2"/><text x="636" y="182" font-size="13" font-weight="bold" fill="#1B9E77" text-anchor="start">datarecorder-lib Working Tree</text><text x="638" y="206" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">datarecorder-lib/</text><text x="652" y="226" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">src/</text><text x="666" y="246" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">main.c</text><rect x="788" y="238" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="790" y="240" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="792" y="242" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><text x="652" y="266" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">README.md</text><rect x="788" y="258" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="790" y="260" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="792" y="262" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="843" y="160" width="157" height="520" rx="10" ry="10" fill="#F8FFFB" stroke="#1B9E77" stroke-width="2"/><text x="853" y="182" font-size="13" font-weight="bold" fill="#1B9E77" text-anchor="start">.git (Index &amp; Staging Area)</text><text x="855" y="206" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">datarecorder-lib/</text><text x="869" y="226" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">src/</text><text x="883" y="246" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">main.c</text><rect x="972" y="238" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="974" y="240" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="976" y="242" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><text x="869" y="266" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">README.md</text><rect x="972" y="258" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="974" y="260" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="976" y="262" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/><rect x="1014" y="160" width="148" height="520" rx="10" ry="10" fill="#F8FFFB" stroke="#1B9E77" stroke-width="2"/><rect x="1014" y="160" width="148" height="22" fill="#F0F0FF" opacity="0.7"/><rect x="1014" y="182" width="148" height="22" fill="#F0F0FF" opacity="0.5"/><text x="1024" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Branch</text><text x="1112" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Refs</text><text x="1112" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Hash</text><text x="1155" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Type</text><rect x="1024" y="186" width="58" height="14" rx="6" ry="6" fill="#E3F2FD" stroke="none"/><text x="1053.0" y="195.8" font-size="13" font-weight="bold" fill="#111" text-anchor="middle">main</text><circle cx="1058.0" cy="528.0" r="8" fill="#fff" stroke="#1B9E77" stroke-width="3"/><text x="1112" y="532.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">3087743</text><text x="1155" y="532.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">commit</text><line x1="1058.0" y="528.0" x2="1058.0" y="376.0" stroke="#1B9E77" stroke-width="3"/><circle cx="1058.0" cy="376.0" r="8" fill="#fff" stroke="#1B9E77" stroke-width="3"/><text x="1112" y="380.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">2d10267</text><text x="1155" y="380.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">commit</text><line x1="1058.0" y="376.0" x2="1058.0" y="224.0" stroke="#1B9E77" stroke-width="3"/><circle cx="1058.0" cy="224.0" r="8" fill="#fff" stroke="#1B9E77" stroke-width="3"/><text x="1112" y="228.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">06d7e80</text><text x="1155" y="228.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">commit</text>
-<line x1="588" y="144" x2="612" y="144" stroke="#111" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="120" width="564" height="576" rx="16" ry="16" fill="#fff" stroke="#5B4B8A" stroke-width="2"/>
+<text x="40" y="148" font-size="16" font-weight="bold" fill="#111" text-anchor="start">Remote Repository github.com</text>
+<rect x="38" y="160" width="203" height="520" rx="10" ry="10" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="48" y="182" font-size="13" font-weight="bold" fill="#111" text-anchor="start">datarecorder-lib Working Tree</text>
+<text x="50" y="206" font-size="12" font-weight="normal" fill="#111" text-anchor="start">datarecorder-lib/</text>
+<text x="64" y="226" font-size="12" font-weight="normal" fill="#111" text-anchor="start">src/</text>
+<text x="78" y="246" font-size="12" font-weight="normal" fill="#111" text-anchor="start">main.c</text>
+<rect x="200" y="238" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="202" y="240" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="204" y="242" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="64" y="266" font-size="12" font-weight="normal" fill="#111" text-anchor="start">README.md</text>
+<rect x="200" y="258" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="202" y="260" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="204" y="262" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="255" y="160" width="157" height="520" rx="10" ry="10" fill="#fff" stroke="#111" stroke-width="2"/>
+<text x="265" y="182" font-size="13" font-weight="bold" fill="#111" text-anchor="start">.git (Index &amp; Staging Area)</text>
+<text x="267" y="206" font-size="12" font-weight="normal" fill="#111" text-anchor="start">datarecorder-lib/</text>
+<text x="281" y="226" font-size="12" font-weight="normal" fill="#111" text-anchor="start">src/</text>
+<text x="295" y="246" font-size="12" font-weight="normal" fill="#111" text-anchor="start">main.c</text>
+<rect x="384" y="238" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="386" y="240" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="388" y="242" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<text x="281" y="266" font-size="12" font-weight="normal" fill="#111" text-anchor="start">README.md</text>
+<rect x="384" y="258" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="386" y="260" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="388" y="262" width="16" height="10" fill="#fff" stroke="#111" stroke-width="1"/>
+<rect x="426" y="160" width="148" height="520" rx="10" ry="10" fill="#fff" stroke="#111" stroke-width="2"/>
+<rect x="426" y="160" width="148" height="22" fill="#F0F0FF" opacity="0.7"/>
+<rect x="426" y="182" width="148" height="22" fill="#F0F0FF" opacity="0.5"/>
+<text x="436" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Branch</text>
+<text x="524" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Refs</text>
+<text x="524" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Hash</text>
+<text x="567" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Type</text>
+<rect x="436" y="186" width="58" height="14" rx="6" ry="6" fill="#E3F2FD"/>
+<text x="465.0" y="195.8" font-size="13" font-weight="bold" fill="#111" text-anchor="middle">main</text>
+<circle cx="470.0" cy="528.0" r="8" fill="#fff" stroke="#111" stroke-width="3"/>
+<text x="524" y="532.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">3087743</text>
+<text x="567" y="532.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">commit</text>
+<line x1="470.0" y1="528.0" x2="470.0" y2="376.0" stroke="#111" stroke-width="3"/>
+<circle cx="470.0" cy="376.0" r="8" fill="#fff" stroke="#111" stroke-width="3"/>
+<text x="524" y="380.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">2d10267</text>
+<text x="567" y="380.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">commit</text>
+<line x1="470.0" y1="376.0" x2="470.0" y2="224.0" stroke="#111" stroke-width="3"/>
+<circle cx="470.0" cy="224.0" r="8" fill="#fff" stroke="#111" stroke-width="3"/>
+<text x="524" y="228.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">06d7e80</text>
+<text x="567" y="228.0" font-size="12" font-weight="normal" fill="#111" text-anchor="start">commit</text>
+<rect x="612" y="120" width="564" height="576" rx="16" ry="16" fill="#fff" stroke="#5B4B8A" stroke-width="2"/>
+<text x="628" y="148" font-size="16" font-weight="bold" fill="#111" text-anchor="start">Lokal: c:\a\git\libs\datarecorder-lib</text>
+<rect x="626" y="160" width="203" height="520" rx="10" ry="10" fill="#F8FFFB" stroke="#1B9E77" stroke-width="2"/>
+<text x="636" y="182" font-size="13" font-weight="bold" fill="#1B9E77" text-anchor="start">datarecorder-lib Working Tree</text>
+<text x="638" y="206" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">datarecorder-lib/</text>
+<text x="652" y="226" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">src/</text>
+<text x="666" y="246" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">main.c</text>
+<rect x="788" y="238" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="790" y="240" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="792" y="242" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<text x="652" y="266" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">README.md</text>
+<rect x="788" y="258" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="790" y="260" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="792" y="262" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="843" y="160" width="157" height="520" rx="10" ry="10" fill="#F8FFFB" stroke="#1B9E77" stroke-width="2"/>
+<text x="853" y="182" font-size="13" font-weight="bold" fill="#1B9E77" text-anchor="start">.git (Index &amp; Staging Area)</text>
+<text x="855" y="206" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">datarecorder-lib/</text>
+<text x="869" y="226" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">src/</text>
+<text x="883" y="246" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">main.c</text>
+<rect x="972" y="238" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="974" y="240" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="976" y="242" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<text x="869" y="266" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">README.md</text>
+<rect x="972" y="258" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="974" y="260" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="976" y="262" width="16" height="10" fill="#fff" stroke="#1B9E77" stroke-width="1"/>
+<rect x="1014" y="160" width="148" height="520" rx="10" ry="10" fill="#F8FFFB" stroke="#1B9E77" stroke-width="2"/>
+<rect x="1014" y="160" width="148" height="22" fill="#F0F0FF" opacity="0.7"/>
+<rect x="1014" y="182" width="148" height="22" fill="#F0F0FF" opacity="0.5"/>
+<text x="1024" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Branch</text>
+<text x="1112" y="176" font-size="13" font-weight="bold" fill="#111" text-anchor="start">Refs</text>
+<text x="1112" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Hash</text>
+<text x="1155" y="198" font-size="12" font-weight="bold" fill="#111" text-anchor="start">Type</text>
+<rect x="1024" y="186" width="58" height="14" rx="6" ry="6" fill="#E3F2FD"/>
+<text x="1053.0" y="195.8" font-size="13" font-weight="bold" fill="#111" text-anchor="middle">main</text>
+<circle cx="1058.0" cy="528.0" r="8" fill="#fff" stroke="#1B9E77" stroke-width="3"/>
+<text x="1112" y="532.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">3087743</text>
+<text x="1155" y="532.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">commit</text>
+<line x1="1058.0" y1="528.0" x2="1058.0" y2="376.0" stroke="#1B9E77" stroke-width="3"/>
+<circle cx="1058.0" cy="376.0" r="8" fill="#fff" stroke="#1B9E77" stroke-width="3"/>
+<text x="1112" y="380.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">2d10267</text>
+<text x="1155" y="380.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">commit</text>
+<line x1="1058.0" y1="376.0" x2="1058.0" y2="224.0" stroke="#1B9E77" stroke-width="3"/>
+<circle cx="1058.0" cy="224.0" r="8" fill="#fff" stroke="#1B9E77" stroke-width="3"/>
+<text x="1112" y="228.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">06d7e80</text>
+<text x="1155" y="228.0" font-size="12" font-weight="normal" fill="#1B9E77" text-anchor="start">commit</text>
+<line x1="588" y1="144" x2="612" y2="144" stroke="#111" stroke-width="2" marker-end="url(#arrow)"/>
 <text x="600.0" y="138" font-size="13" font-weight="normal" fill="#111" text-anchor="middle">clone</text>
 </svg>

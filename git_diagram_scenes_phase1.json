@@ -1,0 +1,6 @@
+{
+  "clone":{
+    "header":{"syntax":"git clone <URL> [dir]","title":"clone"},
+    "arrow":{"label":"clone","from":"remote","to":"local"}
+  }
+}

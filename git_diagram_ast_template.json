@@ -1,0 +1,12 @@
+{
+  "type":"diagram",
+  "layout":"repos-left-right",
+  "parts":[
+    {"type":"header","id":"cmd_header"},
+    {"type":"description","id":"cmd_desc"},
+    {"type":"op_arrow","id":"op_main"},
+    {"type":"repo","id":"remote"},
+    {"type":"repo","id":"local"},
+    {"type":"repo","id":"repo3","display":"empty"}
+  ]
+}

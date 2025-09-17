@@ -1,0 +1,13 @@
+{
+  "repo_container": {"shape":"rounded-rect","stroke":"#5B4B8A"},
+  "panel_title": {"shape":"label","font_size":14},
+  "working_tree_tree": {"shape":"file-tree","node_shape":"folder/file"},
+  "index_card": {"shape":"rect","icon":"stage"},
+  "commit_graph": {"shape":"dag","node":"circle","edge":"line"},
+  "ref_label": {"shape":"label-flag"},
+  "op_arrow": {"shape":"arrow"},
+  "change_new": {"color":"#1B9E77","meaning":"neu angelegt"},
+  "change_unchanged": {"color":"#111","meaning":"unverändert"},
+  "change_deleted": {"color":"#D62828","meaning":"gelöscht"},
+  "change_modified": {"color":"#C1121F","meaning":"modifiziert ggü. anderen Speicherorten"}
+}

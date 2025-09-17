@@ -1,0 +1,7 @@
+[
+  {"id":"clone","syntax":"git clone <URL> [dir]","goal":"Lokales Repo aus Remote erstellen"},
+  {"id":"fetch","syntax":"git fetch [remote] [branch]","goal":"Objekte/Refs vom Remote holen (ohne Working Tree zu ändern)"},
+  {"id":"pull","syntax":"git pull [--rebase]","goal":"fetch + Integration in aktuellen Branch (Merge oder Rebase)"},
+  {"id":"push","syntax":"git push [remote] [branch]","goal":"Lokale Commits/Refs auf Remote übertragen"},
+  {"id":"commit","syntax":"git commit [-m msg]","goal":"Index-Inhalt als neuen Commit speichern"}
+]
